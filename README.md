@@ -32,3 +32,7 @@ Located in the `Examples/` folder:
 1. Clone the repository:
    ```bash
    git clone https://github.com/MH-MuhammadHassan/Dart-Loops.git
+
+## Contributions
+
+Contributions are welcome! If you have additional examples or improvements, feel free to fork this repository and create a pull request.
